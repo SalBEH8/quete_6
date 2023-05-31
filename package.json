@@ -1,0 +1,20 @@
+{
+  "name": "quete_6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress-mailslurp": "^1.7.0"
+  },
+  "dependencies": {
+    "@cypress/webpack-preprocessor": "^5.17.1",
+    "babel-loader": "^9.1.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
